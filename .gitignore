@@ -18,3 +18,15 @@ _build/
 # oasis generated files
 setup.data
 setup.log
+
+#emacs
+\#*\#
+*~
+
+#eliom builds
+_*
+
+#BOA
+./log/*
+./tmp
+./tmp/*

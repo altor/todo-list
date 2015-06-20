@@ -1,2 +1,1 @@
-# todo-list
-a simple todo-list in ocaml/ocsigen
+todo-list web application based on [BOA](https://github.com/Phutur/BOA)
